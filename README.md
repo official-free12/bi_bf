@@ -1,0 +1,6 @@
+# 【毕设】jsp462银行存取款模拟系统ssh毕业设计
+
+免费安装<br>技术实现开发语言:example.com:example.com:B/example.com:mysql,sqlserver,example.com:myeclipse eclipse example.com:1万左右.<br>功能实现工作人员操作需求<br>1、登录功能：工作人员输入账号密码登录。（用户注册和登陆功能新用户必须先注册，注册需要填写用户名和密码；老用户可以输入户名和密码直接登陆，通过读取数据库，获取该用户的信息，如果用户不存在则会提示错误。）<br>2、查询功能：显示客户从注册开始的所有操作时间和操作记录（包括存款、取款、转账等详细记录）。<br>3、修改用户的功能<br>4、添加用户的功能<br>5、删除用户的功能<br>6、修改用户账户内容的功能<br>7、整体页面：布局简洁、美观<br>客户自主操作需求<br>1、登录功能：客户输入账号密码登录。（用户注册和登陆功能新用户必须先注册，注册需要填写用户名和密码；老用户可以输入户名和密码直接登陆，通过读取数据库，获取该用户的信息，如果用户不存在则会提示错误。）<br>2、存款：输入的存款金额进行验证，如输入负数或字母，提示金额错误，否则提示存款成功，存储被修改的余额信息！<br>3、取款功能：输入的取款金额进行验证，如输入负数或字母，提示金额错误。取款成功后，存入数据库！当取款金额大于余额，要有提示，并操作不成功。<br>4、查询功能：显示用户从注册开始的所有操作时间和操作记录。<br>5、转账功能：输入对方户名可以进行转账，转账后自己余额减少，对方余额增加。<br>6、修改密码功能：用户修改账号所对应的密码。<br>7、取卡功能：客户从系统中注销<br>8、整体页面：布局简洁、美观<br>系统截图 <br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/REcGX" style="color: red;">https://mega-file.org/REcGX</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
